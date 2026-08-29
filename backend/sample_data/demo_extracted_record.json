@@ -1,0 +1,195 @@
+{
+  "document_type": "Maharashtra Form 7/12 Land Record (गाव नमुना सात-बारा)",
+  "overall_confidence": 88.5,
+  "fields": {
+    "owner_name": {
+      "key": "owner_name",
+      "label_en": "Primary Owner Name",
+      "label_mr": "मुख्य खातेदाराचे नाव",
+      "value": "दत्तात्रय बापूराव जाधव (Dattatray Bapurao Jadhav)",
+      "confidence": 98.0,
+      "source_text": "मुख्य खातेदार: दत्तात्रय बापूराव जाधव",
+      "status": "AI Extracted"
+    },
+    "co_owners": {
+      "key": "co_owners",
+      "label_en": "Co-Owners / Joint Holders",
+      "label_mr": "इतर सह-हिस्सेदार",
+      "value": "१. मंदाकिनी दत्तात्रय जाधव, २. सचिन दत्तात्रय जाधव",
+      "confidence": 95.0,
+      "source_text": "इतर सह-हिस्सेदार: मंदाकिनी दत्तात्रय जाधव, सचिन दत्तात्रय जाधव",
+      "status": "AI Extracted"
+    },
+    "gat_number": {
+      "key": "gat_number",
+      "label_en": "Gat / Block Number",
+      "label_mr": "गट क्रमांक",
+      "value": "142",
+      "confidence": 99.0,
+      "source_text": "गट / सर्व्हे क्र. 142",
+      "status": "AI Extracted"
+    },
+    "survey_number": {
+      "key": "survey_number",
+      "label_en": "Survey Number",
+      "label_mr": "सर्व्हे क्रमांक",
+      "value": "42/2",
+      "confidence": 94.0,
+      "source_text": "सर्व्हे क्र. 42/2",
+      "status": "AI Extracted"
+    },
+    "khasra_number": {
+      "key": "khasra_number",
+      "label_en": "Khasra Number",
+      "label_mr": "खसरा क्रमांक",
+      "value": "142",
+      "confidence": 88.0,
+      "source_text": "गट क्र. 142",
+      "status": "AI Extracted"
+    },
+    "khata_number": {
+      "key": "khata_number",
+      "label_en": "Khata (Account) Number",
+      "label_mr": "खाते क्रमांक",
+      "value": "314",
+      "confidence": 96.0,
+      "source_text": "खाते क्रमांक: 314",
+      "status": "AI Extracted"
+    },
+    "village": {
+      "key": "village",
+      "label_en": "Village",
+      "label_mr": "गाव",
+      "value": "खेड (Khed)",
+      "confidence": 97.0,
+      "source_text": "गाव: खेड",
+      "status": "AI Extracted"
+    },
+    "tehsil": {
+      "key": "tehsil",
+      "label_en": "Tehsil / Taluka",
+      "label_mr": "तालुका",
+      "value": "खेड / राजगुरूनगर (Khed)",
+      "confidence": 96.0,
+      "source_text": "तालुका: खेड",
+      "status": "AI Extracted"
+    },
+    "district": {
+      "key": "district",
+      "label_en": "District",
+      "label_mr": "जिल्हा",
+      "value": "पुणे (Pune)",
+      "confidence": 98.0,
+      "source_text": "जिल्हा: पुणे",
+      "status": "AI Extracted"
+    },
+    "state": {
+      "key": "state",
+      "label_en": "State",
+      "label_mr": "राज्य",
+      "value": "महाराष्ट्र (Maharashtra)",
+      "confidence": 99.0,
+      "source_text": "महाराष्ट्र शासन",
+      "status": "AI Extracted"
+    },
+    "total_area": {
+      "key": "total_area",
+      "label_en": "Total Recorded Area (Hectares)",
+      "label_mr": "एकूण क्षेत्र (हेक्टर)",
+      "value": "1.00",
+      "confidence": 95.0,
+      "source_text": "एकूण क्षेत्र: 1.00 हेक्टर",
+      "status": "AI Extracted"
+    },
+    "cultivated_area": {
+      "key": "cultivated_area",
+      "label_en": "Cultivated Area (Hectares)",
+      "label_mr": "लागवडीयोग्य क्षेत्र (हेक्टर)",
+      "value": "0.75",
+      "confidence": 92.0,
+      "source_text": "लागवडीयोग्य क्षेत्र: 0.75 हे.",
+      "status": "AI Extracted"
+    },
+    "pot_kharab_area": {
+      "key": "pot_kharab_area",
+      "label_en": "Pot Kharab / Uncultivable Area (Hectares)",
+      "label_mr": "पोटखराब क्षेत्र (हेक्टर)",
+      "value": "0.20",
+      "confidence": 91.0,
+      "source_text": "पोटखराब क्षेत्र: 0.20 हे.",
+      "status": "AI Extracted"
+    },
+    "jirayat_area": {
+      "key": "jirayat_area",
+      "label_en": "Jirayat / Rainfed Area (Hectares)",
+      "label_mr": "जिरायत क्षेत्र (हेक्टर)",
+      "value": "0.75",
+      "confidence": 90.0,
+      "source_text": "जिरायत क्षेत्र: 0.75 हे.",
+      "status": "AI Extracted"
+    },
+    "land_classification": {
+      "key": "land_classification",
+      "label_en": "Land Classification",
+      "label_mr": "जमिनीचे वर्गीकरण",
+      "value": "जिरायत / बागायत वर्ग १ (Agricultural)",
+      "confidence": 93.0,
+      "source_text": "जमिनीचे वर्गीकरण: जिरायत / बागायत",
+      "status": "AI Extracted"
+    },
+    "ownership_type": {
+      "key": "ownership_type",
+      "label_en": "Ownership Type",
+      "label_mr": "भूधारणा पद्धती",
+      "value": "भोगवटादार वर्ग - १ (Occupant Class 1)",
+      "confidence": 94.0,
+      "source_text": "भूधारणा पद्धती: भोगवटादार वर्ग - १",
+      "status": "AI Extracted"
+    },
+    "mutation_number": {
+      "key": "mutation_number",
+      "label_en": "Mutation Entry Number (Ferfar No.)",
+      "label_mr": "फेरफार क्रमांक",
+      "value": "4582",
+      "confidence": 92.0,
+      "source_text": "फेरफार क्रमांक: 4582",
+      "status": "AI Extracted"
+    },
+    "mutation_date": {
+      "key": "mutation_date",
+      "label_en": "Mutation Date",
+      "label_mr": "फेरफार दिनांक",
+      "value": "14/03/2021",
+      "confidence": 89.0,
+      "source_text": "फेरफार दिनांक: 14/03/2021",
+      "status": "AI Extracted"
+    },
+    "registration_number": {
+      "key": "registration_number",
+      "label_en": "Document Registration Number",
+      "label_mr": "नोंदणी क्रमांक",
+      "value": "MH-PUN-KD-2024-8891",
+      "confidence": 72.0,
+      "source_text": "नोंदणी क्रमांक: MH-PUN-KD-2024-8891 (अस्पष्ट शिक्का)",
+      "status": "AI Extracted"
+    },
+    "registration_date": {
+      "key": "registration_date",
+      "label_en": "Registration Date",
+      "label_mr": "नोंदणी दिनांक",
+      "value": "15/01/2026",
+      "confidence": 85.0,
+      "source_text": "दिनांक: 15/01/2026",
+      "status": "AI Extracted"
+    },
+    "remarks": {
+      "key": "remarks",
+      "label_en": "Official Remarks & Encumbrances",
+      "label_mr": "शेरा व इतर अधिकार",
+      "value": "बँक ऑफ महाराष्ट्र पीक कर्ज रु. १,५०,०००/- बोजा नोंद. ०.०५ हे. रस्ता/बांध फेरफार अधीन.",
+      "confidence": 90.0,
+      "source_text": "बोजा / इतर हक्क: बँक ऑफ महाराष्ट्र पीक कर्ज रु. 1,50,000/-",
+      "status": "AI Extracted"
+    }
+  }
+}
