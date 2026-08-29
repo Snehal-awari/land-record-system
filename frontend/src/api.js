@@ -1,4 +1,6 @@
-const API_BASE = "http://localhost:8000/api";
+
+
+const API_BASE = "https://land-record-system-0itr.onrender.com/api";
 
 export async function getHealth() {
   const res = await fetch(`${API_BASE}/health`);
